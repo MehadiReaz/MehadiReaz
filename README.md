@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a junior Flutter dev.<br>👯 I’m looking to collaborate on a new Flutter project<br>🌱 I’m currently learning different state management<br>⚡ Fun fact I love to sleep  
+🔭 I’m currently working as a junior Flutter dev.<br>👯 I’m looking to collaborate on a new Flutter project<br>🌱 I’m currently learning different state management<br>
 
 
 ## 🌐 Socials:
